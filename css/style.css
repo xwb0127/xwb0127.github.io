@@ -384,26 +384,26 @@ ul.callbacks_tabs.callbacks1_tabs {
 	margin-top:2em;
 }
 .course-info h4 {
-     font-size: 1.8em;
+    font-size: 1.8em;
     font-family: 'Yanone Kaffeesatz', sans-serif;
     color: #0099e5;
     text-align: left;
-    margin-bottom: .5em;
+    margin-bottom: 0.2em;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
 .course-info p {
-   font-size: 1em;
-    line-height: 1.8em;
+    font-size: 1em;
+    line-height: 1.5em;
     color: #eee;
     text-align: left
 }
 .course-info {
-     position: absolute;
+    position: absolute;
     top: 0%;
     background: rgba(3, 11, 19, 0.68);
-    padding: 5em 2em;
-    width: 65%;
+    padding: 2em 2em;
+    width: 70%;
     left: 2.5%;
 }
 .testimonial-info p {
